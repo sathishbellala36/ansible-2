@@ -3,3 +3,4 @@ hosts: web
 tasks:
  - name: PLAY-01 TASK-01
    ansible.builtin.debug:
+     msg: This is form PLAY-01 AMD TASK-01
